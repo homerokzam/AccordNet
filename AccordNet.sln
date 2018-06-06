@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccordNet", "AccordNet\AccordNet.csproj", "{5F159A19-2CC5-49B3-9239-D234FE7DA587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F159A19-2CC5-49B3-9239-D234FE7DA587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F159A19-2CC5-49B3-9239-D234FE7DA587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F159A19-2CC5-49B3-9239-D234FE7DA587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F159A19-2CC5-49B3-9239-D234FE7DA587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C9CC53-B69A-49DF-AB37-F793FF99D4B0}
+	EndGlobalSection
+EndGlobal
